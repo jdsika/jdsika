@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="481" viewBox="0 0 790 481" role="img" aria-label="Carlo van Driesten — GitHub profile card">
+<rect x="0.5" y="0.5" width="789" height="480" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" xml:space="preserve">
+<text x="24" y="30" fill="#2a2f37">                         :. .,::;+;:.</text>
+<text x="24" y="43" fill="#2a2f37">                  .+iH%%%g@M%%%%@@@@%%Hii*+,</text>
+<text x="24" y="56" fill="#2a2f37">              ,+hHHM@@@@ggg@%@gggggggggg@M%%h+</text>
+<text x="24" y="69" fill="#2a2f37">            :M@ggggMHHHHHHHM%gggggggggggggg@%MM,</text>
+<text x="24" y="82" fill="#2a2f37">           :M@%ggggg@@%%%@@ggggggggggggggggg@h@h</text>
+<text x="24" y="95" fill="#2a2f37">          i%g@gggggggggggggggggggggg@@ggggg@%HHH+</text>
+<text x="24" y="108" fill="#2a2f37">          H@@@ggg@@gg@%@@@@@@%@@@g@@gggggg@%%%hi;</text>
+<text x="24" y="121" fill="#2a2f37">         :@@%@g@Mh*hMMHhhhiiiiiihHHMMMM%@gggg%*:</text>
+<text x="24" y="134" fill="#2a2f37">         %g@g@Hi*++;++++++++*****iiiihhhHHMMggh.</text>
+<text x="24" y="147" fill="#2a2f37">         i@@%Hi*+++++++++++++++***iiihhhhhhhMg%.</text>
+<text x="24" y="160" fill="#2a2f37">         *g%MHi*+;++++++++++*******iihhhhhhih%@+</text>
+<text x="24" y="173" fill="#2a2f37">         h@MMHi+++++++;;;:;;+***i***ihhhhhhiiH%i</text>
+<text x="24" y="186" fill="#2a2f37">         h@%Mi+++;;+****+++;;;+**+++***iiihiihM+</text>
+<text x="24" y="199" fill="#2a2f37">         h@%%*;;;++****iHMHhi+;+;;+++ihhhhhi+hh</text>
+<text x="24" y="212" fill="#2a2f37">        ++h%M+;;;+;+iHM@%M%Mh*;;++iHMMMhiihi+hi</text>
+<text x="24" y="225" fill="#2a2f37">       :M+:hH;;+++*hiiHMHH%Mh*;:*H@g@@@%MH***h+</text>
+<text x="24" y="238" fill="#2a2f37">       i*;Hi*;;+++*****iiiii**++iM@MMHhhhMHi*h;</text>
+<text x="24" y="251" fill="#2a2f37">       ;+%M:;;;;;:++**ihi**+++++hMHHHHHHhhHh*H;</text>
+<text x="24" y="264" fill="#2a2f37">       ,+*h;;;;;:,::;+**ii**++++hMHhihHhhhhi*i</text>
+<text x="24" y="277" fill="#2a2f37">        ::;;::;;::,:;+*iii*;+;:;+iihihi**ii**i</text>
+<text x="24" y="290" fill="#2a2f37">         ...::;;;::;+iiii**ii*+**HHHhii+;+++*:</text>
+<text x="24" y="303" fill="#2a2f37">            ;:::::;+*****iiiihihhhHhhhii+++;+</text>
+<text x="24" y="316" fill="#2a2f37">            ::::::;+**M@M+*iihhhhhhMMh**+++;</text>
+<text x="24" y="329" fill="#2a2f37">            :::::::;*+*HM*+;:,;,+*Mg@h*;;;+.</text>
+<text x="24" y="342" fill="#2a2f37">           .;:::,::;++;;;*iHHHHhM%%H*i*;;+,</text>
+<text x="24" y="355" fill="#2a2f37">            ;:::::::;;;++;++*iiiiiiiii*+;.</text>
+<text x="24" y="368" fill="#2a2f37">             :::,::::;;+++*ihhhhhhhhi*+,</text>
+<text x="24" y="381" fill="#2a2f37">              .::::::;:;;;++***ihHhi+:</text>
+<text x="24" y="394" fill="#2a2f37">                .;;:::::;;;+++++**++,</text>
+<text x="24" y="407" fill="#2a2f37">                  .:+;:::;;;+++++;;i+.</text>
+<text x="24" y="420" fill="#2a2f37">                     ;i*+;;;;;;;;;*Mh+:.</text>
+<text x="24" y="433" fill="#2a2f37">                       ;ii**+;;;++hhii+:.</text>
+<text x="24" y="446" fill="#2a2f37">                         :*ii*+++*Hh*++;</text>
+<text x="400" y="30"><tspan fill="#0969da" font-weight="bold">Carlo van Driesten</tspan></text>
+<text x="400" y="43"><tspan fill="#57606a">────────────────────────────────────────────</tspan></text>
+<text x="400" y="56"><tspan fill="#953800">Role ........ </tspan><tspan fill="#24292f">Systems Architect, Virtual Test &amp; Validation</tspan></text>
+<text x="400" y="69"><tspan fill="#953800">Host ........ </tspan><tspan fill="#24292f">BMW Group | vDL Digital Ventures GmbH</tspan></text>
+<text x="400" y="82"><tspan fill="#953800">Uptime ...... </tspan><tspan id="uptime" fill="#24292f">11 years, 3 months (joined 2015-04-14)</tspan></text>
+<text x="400" y="95"><tspan fill="#953800">Focus ....... </tspan><tspan fill="#24292f">Agentic AI, Data Spaces, Simulation</tspan></text>
+<text x="400" y="121"><tspan fill="#953800">Lang.Code ... </tspan><tspan fill="#24292f">Python, TypeScript</tspan></text>
+<text x="400" y="134"><tspan fill="#953800">Lang.Data ... </tspan><tspan fill="#24292f">OWL/RDF, LinkML, SHACL, JSON-LD</tspan></text>
+<text x="400" y="147"><tspan fill="#953800">Standards ... </tspan><tspan fill="#24292f">ASAM OSI (CCB) | ASAM OpenX | ISO 3450x</tspan></text>
+<text x="400" y="160"><tspan fill="#953800">Web3 ........ </tspan><tspan fill="#24292f">TZIP | CAIP</tspan></text>
+<text x="400" y="173"><tspan fill="#953800">Projects .... </tspan><tspan fill="#24292f">Lichtblick | ENVITED-X | Haven</tspan></text>
+<text x="400" y="199"><tspan fill="#0969da" font-weight="bold">Contact</tspan></text>
+<text x="400" y="212"><tspan fill="#57606a">────────────────────────────────────────────</tspan></text>
+<text x="400" y="225"><tspan fill="#953800">Email ....... </tspan><tspan fill="#24292f">github.com.charity937@passmail.com</tspan></text>
+<text x="400" y="238"><tspan fill="#953800">Web ......... </tspan><tspan fill="#24292f">vdl.digital | reachhaven.com</tspan></text>
+<text x="400" y="251"><tspan fill="#953800">LinkedIn .... </tspan><tspan fill="#24292f">in/carlo-van-driesten</tspan></text>
+<text x="400" y="277"><tspan fill="#0969da" font-weight="bold">GitHub Stats</tspan></text>
+<text x="400" y="290"><tspan fill="#57606a">────────────────────────────────────────────</tspan></text>
+<text x="400" y="303"><tspan fill="#953800">Repos ....... </tspan><tspan id="repos" fill="#24292f">21</tspan><tspan fill="#57606a"> public · contributed to </tspan><tspan id="contrib" fill="#24292f">49</tspan></text>
+<text x="400" y="316"><tspan fill="#953800">Commits ..... </tspan><tspan id="commits" fill="#24292f">1,304</tspan></text>
+<text x="400" y="329"><tspan fill="#953800">PRs ......... </tspan><tspan id="prs" fill="#24292f">564</tspan><tspan fill="#57606a"> · reviews </tspan><tspan id="reviews" fill="#24292f">505</tspan></text>
+<text x="400" y="342"><tspan fill="#953800">Issues ...... </tspan><tspan id="issues" fill="#24292f">457</tspan></text>
+<text x="400" y="355"><tspan fill="#953800">Stars ....... </tspan><tspan id="stars" fill="#24292f">19</tspan><tspan fill="#57606a"> · followers </tspan><tspan id="followers" fill="#24292f">54</tspan></text>
+<text x="400" y="381"><tspan fill="#57606a">updated </tspan><tspan id="updated" fill="#57606a">2026-07-17</tspan><tspan fill="#57606a"> · github.com/jdsika/jdsika</tspan></text>
+</g></svg>
