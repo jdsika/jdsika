@@ -38,7 +38,7 @@
 <text x="400" y="43"><tspan fill="#57606a">────────────────────────────────────────────</tspan></text>
 <text x="400" y="56"><tspan fill="#953800">Role ........ </tspan><tspan fill="#24292f">Systems Architect, Virtual Test &amp; Validation</tspan></text>
 <text x="400" y="69"><tspan fill="#953800">Host ........ </tspan><tspan fill="#24292f">BMW Group | vDL Digital Ventures GmbH</tspan></text>
-<text x="400" y="82"><tspan fill="#953800">Uptime ...... </tspan><tspan id="uptime" fill="#24292f">11 years, 3 months (joined 2015-04-14)</tspan></text>
+<text x="400" y="82"><tspan fill="#953800">Uptime ...... </tspan><tspan id="uptime" fill="#24292f">11 years, 4 months (joined 2015-04-14)</tspan></text>
 <text x="400" y="95"><tspan fill="#953800">Focus ....... </tspan><tspan fill="#24292f">Agentic AI, Data Spaces, Simulation</tspan></text>
 <text x="400" y="121"><tspan fill="#953800">Lang.Code ... </tspan><tspan fill="#24292f">Python, TypeScript</tspan></text>
 <text x="400" y="134"><tspan fill="#953800">Lang.Data ... </tspan><tspan fill="#24292f">OWL/RDF, LinkML, SHACL, JSON-LD</tspan></text>
@@ -56,6 +56,6 @@
 <text x="400" y="316"><tspan fill="#953800">Commits ..... </tspan><tspan id="commits" fill="#24292f">1,488</tspan></text>
 <text x="400" y="329"><tspan fill="#953800">PRs ......... </tspan><tspan id="prs" fill="#24292f">675</tspan><tspan fill="#57606a"> · reviews </tspan><tspan id="reviews" fill="#24292f">505</tspan></text>
 <text x="400" y="342"><tspan fill="#953800">Issues ...... </tspan><tspan id="issues" fill="#24292f">485</tspan></text>
-<text x="400" y="355"><tspan fill="#953800">Stars ....... </tspan><tspan id="stars" fill="#24292f">20</tspan><tspan fill="#57606a"> · followers </tspan><tspan id="followers" fill="#24292f">54</tspan></text>
-<text x="400" y="381"><tspan fill="#57606a">updated </tspan><tspan id="updated" fill="#57606a">2026-08-13</tspan><tspan fill="#57606a"> · github.com/jdsika/jdsika</tspan></text>
+<text x="400" y="355"><tspan fill="#953800">Stars ....... </tspan><tspan id="stars" fill="#24292f">20</tspan><tspan fill="#57606a"> · followers </tspan><tspan id="followers" fill="#24292f">56</tspan></text>
+<text x="400" y="381"><tspan fill="#57606a">updated </tspan><tspan id="updated" fill="#57606a">2026-08-14</tspan><tspan fill="#57606a"> · github.com/jdsika/jdsika</tspan></text>
 </g></svg>
